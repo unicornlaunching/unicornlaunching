@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
----
-layout: home
-id: index
-title: WELCOME
-next: overview
----
-
 <a href= "http://www.youtube.com/watch?v=S6sh-wOC0BE"><img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
 
 ## Turn on Subtitles & Translations
