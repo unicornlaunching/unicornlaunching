@@ -10,8 +10,8 @@ aka Blockface aka attractfund1ng aka unicornlaunching
 - [Linkedin](https://www.linkedin.com/in/jagdeoholdings/recent-activity/articles/)
 - [Diary of a Stand-up Comedian](http://michaeljagdeo.wordpress.com)
 - [Slideshare](https://www.slideshare.net/manofsteelpan)
-- How To Predict Problems Worth Solving & Jobs To Be Done
-- ITIL v3 Study Notes
+- [How To Predict Problems Worth Solving & Jobs To Be Done](https://github.com/unicornlaunching/michael_jagdeo)
+- [ITIL v3 Study Notes](https://github.com/unicornlaunching/michael_jagdeo)
 
 ## Books
 
@@ -21,8 +21,8 @@ aka Blockface aka attractfund1ng aka unicornlaunching
 
 ## Papers
 
-- Prompt Like An Egyptian | Manufacturing Consent
-- The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
+- [Prompt Like An Egyptian | Manufacturing Consent](https://github.com/unicornlaunching/michael_jagdeo)
+- [The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll](https://github.com/unicornlaunching/michael_jagdeo)
 
 Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
 
