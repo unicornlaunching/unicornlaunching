@@ -1,6 +1,8 @@
 # Michael Jagdeo
 aka Blockface aka attractfund1ng aka unicornlaunching
 
+![follow the star](https://easydrawingguides.com/wp-content/uploads/2020/01/how-to-draw-a-cartoon-stars-featured-image-1200.png)
+
 ## Blogs
 
 - [Digital Mercenary Blog](https://digitalmercenary.substack.com/)
