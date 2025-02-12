@@ -1,25 +1,43 @@
-### Hi there 👋
+# Michael Jagdeo
+aka Blockface aka attractfund1ng aka unicornlaunching
 
-<!--
-**unicornlaunching/unicornlaunching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Blogs
 
-Here are some ideas to get you started:
+- [Digital Mercenary Blog](https://digitalmercenary.substack.com/)
+- [Exponent Labs](https://exponentlabs.substack.com/)
+- [Bitcoin Insider](https://www.bitcoininsider.org/authors/unicornlaunching)
+- [Hackernoon](https://hackernoon.com/blockchainsthatscaleintothebillions-9ec24689507b)
+- [Linkedin](https://www.linkedin.com/in/jagdeoholdings/recent-activity/articles/)
+- [Diary of a Stand-up Comedian](http://michaeljagdeo.wordpress.com)
+- [Slideshare](https://www.slideshare.net/manofsteelpan)
+- How To Predict Problems Worth Solving & Jobs To Be Done
+- ITIL v3 Study Notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Books
 
-<a href= "http://www.youtube.com/watch?v=S6sh-wOC0BE"><img src="http://img.youtube.com/vi/S6sh-wOC0BE/0.jpg" alt="What's Wrong With The Way Business Is Taught?" width="100%"/></a>
-
-<a href= "https://www.youtube.com/watch?v=ODylqIe3a1I"><img src="http://img.youtube.com/vi/ODylqIe3a1I/0.jpg" alt="CASE STUDY: How They REALLY BUILT the PYRAMIDS" width="100%"/></a>
+- What I Learned On X (Bonus: Alimony of Language)
+- Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
 
 
-<a href= "https://youtu.be/BDNh1Ps29mQ"><img src="http://img.youtube.com/vi/BDNh1Ps29mQ/0.jpg" alt="State VS Bitcoin" width="100%"/></a>
+## Papers
 
-## LET'S BEGIN
+- Prompt Like An Egyptian | Manufacturing Consent
+- The Red Queen's Race by Allison Tenn-Yuk h/t Lewis Carroll
+
+Visit [Exponent Labs: Raising You To The Higher Power](https://github.com/unicornlaunching/michael_jagdeo)
+
+## Prototypes:
+
+Real Estate (DEFI): https://verdant-sprite-52fc63.netlify.app/
+
+Religion (chatbot): https://asktheking.carrd.co/
+
+Bitcoin (DataViz): https://discoverstacks.netlify.app/
+
+Ryu (logic): https://thelogickofthedojo.netlify.app/
+
+Charizard (logic): https://charizardlogic.netlify.app/
+
+Birds (Mnemoboids): https://mnemoboids.netlify.app/
+
+https://codepen.io/unicornlaunching
