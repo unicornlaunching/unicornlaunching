@@ -15,8 +15,8 @@ aka Blockface aka attractfund1ng aka unicornlaunching
 
 ## Books
 
-- What I Learned On X (Bonus: Alimony of Language)
-- Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)
+- [What I Learned On X (Bonus: Alimony of Language)](https://github.com/unicornlaunching/michael_jagdeo)
+- [Journey to the Eureka! Moment (Bonus: The Creative Breakthrough Canvas)](https://github.com/unicornlaunching/michael_jagdeo)
 
 
 ## Papers
